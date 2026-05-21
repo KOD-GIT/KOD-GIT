@@ -20,7 +20,7 @@ I'm a 3rd-year IT student at MIT Manipal with a strong foundation in operating s
 
 - 🔐 Interested in **secure system design**, **threat modelling**, and **AI-driven security**
 - 🛠️ Comfortable across the stack — databases, backends, desktop apps, mobile, and ML pipelines
-- 📚 Currently: 3rd year @ MIT Manipal 
+- 📚 Currently: 3rd year @ MIT Manipal · CGPA 7.45/10
 - 🎯 Seeking **internships** in Cybersecurity · AI/ML · Full-Stack Development
 
 ---
@@ -32,7 +32,6 @@ I'm a 3rd-year IT student at MIT Manipal with a strong foundation in operating s
 <td width="50%" valign="top">
 
 ### 🔐 Network Intrusion Detection
-[![NIDS](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=Vinayak_230911358_AICS_IA4&hide_border=true&theme=default)](https://github.com/KOD-GIT/Vinayak_230911358_AICS_IA4)
 
 Multi-model NIDS on the **UNSW-NB15** benchmark dataset. DNN + feature importance, confusion matrices, PR curves & radar chart model comparison.
 
@@ -44,7 +43,6 @@ Multi-model NIDS on the **UNSW-NB15** benchmark dataset. DNN + feature importanc
 <td width="50%" valign="top">
 
 ### 🏥 Smart Clinic App
-[![Smart Clinic](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=SMART-CLINIC-APP&hide_border=true&theme=default)](https://github.com/KOD-GIT/SMART-CLINIC-APP)
 
 Cross-platform healthcare management app — role-based auth, appointment booking, digital prescriptions & admin dashboard.
 
@@ -58,7 +56,6 @@ Cross-platform healthcare management app — role-based auth, appointment bookin
 <td width="50%" valign="top">
 
 ### 📈 Stock Price Predictor
-[![Stock Price](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=Basic-Stock-Price-Tracking-Prediction-System-&hide_border=true&theme=default)](https://github.com/KOD-GIT/Basic-Stock-Price-Tracking-Prediction-System-)
 
 C# WinForms desktop app with live **Alpha Vantage API** data, Oracle SQL + PL/SQL backend, and Random Forest prediction using SMA/RSI/momentum features.
 
@@ -70,7 +67,6 @@ C# WinForms desktop app with live **Alpha Vantage API** data, Oracle SQL + PL/SQ
 <td width="50%" valign="top">
 
 ### 🎵 Music Streaming Web App
-[![Music App](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=-Full-Stack-Music-Streaming-Web-App&description_lines_count=2&hide_border=true&theme=default)](https://github.com/KOD-GIT/-Full-Stack-Music-Streaming-Web-App)
 
 Spotify-inspired full-stack app — PHP/MySQL backend, custom JS audio player, FYP feed, favourites, user uploads & 10 genre categories.
 
@@ -84,7 +80,6 @@ Spotify-inspired full-stack app — PHP/MySQL backend, custom JS audio player, F
 <td width="50%" valign="top">
 
 ### 🔍 Anomaly Detection
-[![Anomaly](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=anomaly-detection&hide_border=true&theme=default)](https://github.com/KOD-GIT/anomaly-detection)
 
 Outlier detection pipeline with preprocessing, feature engineering, and multi-algorithm benchmarking on structured datasets.
 
@@ -92,7 +87,19 @@ Outlier detection pipeline with preprocessing, feature engineering, and multi-al
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
+</td>
+<td width="50%" valign="top">
 
+### 🎮 Snake Game on LPC1768
+*Code upload coming soon...*
+
+Classic Snake game on **NXP LPC1768** microcontroller — 2.4" TFT LCD, push-button controls, collision detection, scoring, and buzzer feedback.
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Embedded](https://img.shields.io/badge/Embedded-NXP_LPC1768-blueviolet?style=flat)
+![Keil](https://img.shields.io/badge/Keil_µVision-003087?style=flat)
+
+</td>
 </tr>
 </table>
 
