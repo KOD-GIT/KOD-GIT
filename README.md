@@ -16,21 +16,12 @@
 
 ## 🧑‍💻 About Me
 
+I'm a 3rd-year IT student at MIT Manipal with a strong foundation in operating systems, computer networks, and database systems — now diving deep into **cybersecurity** and **AI**. I enjoy building things that are both technically rigorous and actually useful: from intrusion detection models and secure systems to full-stack web apps, mobile apps, and embedded projects.
 
-vinayak = {
-    "degree"      : "B.Tech Information Technology @ MIT Manipal (2023–Present)",
-    "cgpa"        : "7.45 / 10",
-    "interests"   : ["Cybersecurity", "Artificial Intelligence", "Full-Stack Dev", "Embedded Systems"],
-    "currently"   : ["Secure System Design", "Threat Modelling", "AI-driven Security"],
-    "looking_for" : "Internship → Cybersecurity | AI/ML | Full-Stack",
-    "location"    : "Manipal, Karnataka, India",
-}
-
-
-- 🔐 Passionate about **secure systems**, **threat modelling**, and using **AI to enhance security**
-- 🛠️ Built projects spanning databases, ML pipelines, mobile apps, desktop GUIs, and web apps
-- 🌱 Currently exploring deeper into **network security** and **machine learning for anomaly detection**
-- 💬 Ask me about **Python · C# · Oracle SQL · Flutter · PHP/MySQL**
+- 🔐 Interested in **secure system design**, **threat modelling**, and **AI-driven security**
+- 🛠️ Comfortable across the stack — databases, backends, desktop apps, mobile, and ML pipelines
+- 📚 Currently: 3rd year @ MIT Manipal · CGPA 7.45/10
+- 🎯 Seeking **internships** in Cybersecurity · AI/ML · Full-Stack Development
 
 ---
 
