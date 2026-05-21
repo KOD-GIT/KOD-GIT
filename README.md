@@ -92,19 +92,7 @@ Outlier detection pipeline with preprocessing, feature engineering, and multi-al
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
 
-### 🎮 Snake Game on LPC1768
-*Code upload coming soon...*
-
-Classic Snake game on **NXP LPC1768** microcontroller — 2.4" TFT LCD, push-button controls, collision detection, scoring, and buzzer feedback.
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded-NXP_LPC1768-blueviolet?style=flat)
-![Keil](https://img.shields.io/badge/Keil_µVision-003087?style=flat)
-
-</td>
 </tr>
 </table>
 
