@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+
 vinayak = {
     "degree"      : "B.Tech Information Technology @ MIT Manipal (2023–Present)",
     "cgpa"        : "7.45 / 10",
@@ -25,7 +25,7 @@ vinayak = {
     "looking_for" : "Internship → Cybersecurity | AI/ML | Full-Stack",
     "location"    : "Manipal, Karnataka, India",
 }
-```
+
 
 - 🔐 Passionate about **secure systems**, **threat modelling**, and using **AI to enhance security**
 - 🛠️ Built projects spanning databases, ML pipelines, mobile apps, desktop GUIs, and web apps
