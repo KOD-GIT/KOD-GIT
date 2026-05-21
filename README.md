@@ -20,7 +20,7 @@ I'm a 3rd-year IT student at MIT Manipal with a strong foundation in operating s
 
 - 🔐 Interested in **secure system design**, **threat modelling**, and **AI-driven security**
 - 🛠️ Comfortable across the stack — databases, backends, desktop apps, mobile, and ML pipelines
-- 📚 Currently: 3rd year @ MIT Manipal · CGPA 7.45/10
+- 📚 Currently: 3rd year @ MIT Manipal 
 - 🎯 Seeking **internships** in Cybersecurity · AI/ML · Full-Stack Development
 
 ---
