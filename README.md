@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/vinayakshankar33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakshankar33@gmail.com)
 [![GitHub](https://img.shields.io/badge/KOD--GIT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KOD-GIT)
-[![MIT Manipal](https://img.shields.io/badge/MIT_Manipal-003087?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
+[![MIT Manipal](https://img.shields.io/badge/MIT_Manipal-003087?style=for-the-badge&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KOD-GIT&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS)
 
@@ -23,7 +23,7 @@ vinayak = {
     "interests"   : ["Cybersecurity", "Artificial Intelligence", "Full-Stack Dev", "Embedded Systems"],
     "currently"   : ["Secure System Design", "Threat Modelling", "AI-driven Security"],
     "looking_for" : "Internship → Cybersecurity | AI/ML | Full-Stack",
-    "location"    : "Manipal, Karnataka, India 🇮🇳",
+    "location"    : "Manipal, Karnataka, India",
 }
 ```
 
@@ -79,7 +79,7 @@ C# WinForms desktop app with live **Alpha Vantage API** data, Oracle SQL + PL/SQ
 <td width="50%" valign="top">
 
 ### 🎵 Music Streaming Web App
-[![Music App](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=-Full-Stack-Music-Streaming-Web-App&hide_border=true&theme=default)](https://github.com/KOD-GIT/-Full-Stack-Music-Streaming-Web-App)
+[![Music App](https://github-readme-stats.vercel.app/api/pin/?username=KOD-GIT&repo=-Full-Stack-Music-Streaming-Web-App&description_lines_count=2&hide_border=true&theme=default)](https://github.com/KOD-GIT/-Full-Stack-Music-Streaming-Web-App)
 
 Spotify-inspired full-stack app — PHP/MySQL backend, custom JS audio player, FYP feed, favourites, user uploads & 10 genre categories.
 
@@ -160,7 +160,7 @@ Classic Snake game on **NXP LPC1768** microcontroller — 2.4" TFT LCD, push-but
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KOD-GIT&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KOD-GIT&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
