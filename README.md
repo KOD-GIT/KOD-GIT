@@ -31,7 +31,7 @@ I'm a 3rd-year IT student at MIT Manipal with a strong foundation in operating s
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Network Intrusion Detection
+### 🔐 [Network Intrusion Detection](https://github.com/KOD-GIT/Vinayak_230911358_AICS_IA4)
 
 Multi-model NIDS on the **UNSW-NB15** benchmark dataset. DNN + feature importance, confusion matrices, PR curves & radar chart model comparison.
 
@@ -42,7 +42,7 @@ Multi-model NIDS on the **UNSW-NB15** benchmark dataset. DNN + feature importanc
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Smart Clinic App
+### 🏥 [Smart Clinic App](https://github.com/KOD-GIT/SMART-CLINIC-APP)
 
 Cross-platform healthcare management app — role-based auth, appointment booking, digital prescriptions & admin dashboard.
 
@@ -55,7 +55,7 @@ Cross-platform healthcare management app — role-based auth, appointment bookin
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Stock Price Predictor
+### 📈 [Stock Price Predictor](https://github.com/KOD-GIT/Basic-Stock-Price-Tracking-Prediction-System-)
 
 C# WinForms desktop app with live **Alpha Vantage API** data, Oracle SQL + PL/SQL backend, and Random Forest prediction using SMA/RSI/momentum features.
 
@@ -66,7 +66,7 @@ C# WinForms desktop app with live **Alpha Vantage API** data, Oracle SQL + PL/SQ
 </td>
 <td width="50%" valign="top">
 
-### 🎵 Music Streaming Web App
+### 🎵 [Music Streaming Web App](https://github.com/KOD-GIT/-Full-Stack-Music-Streaming-Web-App)
 
 Spotify-inspired full-stack app — PHP/MySQL backend, custom JS audio player, FYP feed, favourites, user uploads & 10 genre categories.
 
@@ -79,7 +79,7 @@ Spotify-inspired full-stack app — PHP/MySQL backend, custom JS audio player, F
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Anomaly Detection
+### 🔍 [Anomaly Detection](https://github.com/KOD-GIT/anomaly-detection)
 
 Outlier detection pipeline with preprocessing, feature engineering, and multi-algorithm benchmarking on structured datasets.
 
