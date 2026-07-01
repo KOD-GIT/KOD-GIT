@@ -100,18 +100,6 @@ Spotify-inspired full-stack app — **PHP/MySQL** backend, custom JS audio playe
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 </td>
-<td width="50%" valign="top">
-
-### 🔜 More Projects Coming Soon
-
-Currently building:
-- 🌐 **MERN E-Commerce Platform** with Stripe & JWT
-- 📱 **React Native Expense Tracker** with Firebase
-- 🤖 **AI-Powered Security Scanner**
-
-*Watch this space!*
-
-</td>
 </tr>
 </table>
 
@@ -196,16 +184,6 @@ Currently building:
 ### 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KOD-GIT&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=KOD-GIT&theme=tokyonight&no-frame=true&no-bg=true&column=7)
-
-</div>
 
 ---
 
