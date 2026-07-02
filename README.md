@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Gmail](https://img.shields.io/badge/vinayakshankar33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakshankar33@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VINAYAK_SHANKAR)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KOD-GIT&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS)
