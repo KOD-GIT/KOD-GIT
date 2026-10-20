@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/vinayakshankar33%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakshankar33@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VINAYAK_SHANKAR)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KOD-GIT&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS)
+[![Profile Views](https://hits.sh/github.com/KOD-GIT.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=2F80ED&labelColor=4B4B4B)](https://hits.sh/github.com/KOD-GIT/)
 ![GitHub Followers](https://img.shields.io/github/followers/KOD-GIT?style=for-the-badge&color=2F80ED&label=FOLLOWERS)
 
 </div>
